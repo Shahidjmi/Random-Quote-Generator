@@ -1,2 +1,2 @@
 # Quote-Generator
-Demo Link :->  https://shahidjmi.github.io/Quote-Generator/
+Demo Link :->  shahidquotegene.netlify.app
